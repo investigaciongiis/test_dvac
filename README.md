@@ -9,6 +9,7 @@ Damn Vulnerable Android Components (DVAC) is an educational Android application 
 
 Inspired by the pioneering work of the Sieve application, which focused on similar vulnerabilities but is now outdated and incompatible with newer Android versions, DVAC aims to fill the gap by providing a modern, up-to-date platform for learning about Android security. DVAC provides a hands-on learning experience for beginners in Android pentesting and cybersecurity and developed while keeping beginners who find it difficulty to get proper lab for learning android pentesting.
 
+
 🇮🇳 Handcrafted in India
 
 ## Vulnerabilities 
